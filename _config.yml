@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  Here you'll find blog posts about projects I've done for my Stat 386 class at BYU mixed in with other topics that I find interesting.
 baseurl: "/example-blog" # keep this the same or change it to the name of the repository 
 url: "https://esnt.github.io" #  change this to "https://<your-github-username>.github.io"
-image: "assets/images/image5.jpg"
+image: "assets/images/autumn.jpg"
 author: Shannon Tass
 copyright: esnt # Your initials or what you want the copyright to be.  Leave empty for no copyright
 
